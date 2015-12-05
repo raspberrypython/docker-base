@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER tim@haak.co
+MAINTAINER Tim Haak <tim@haak.co>
 
 ENV DEBIAN_FRONTEND="noninteractive" \
     LANG="en_US.UTF-8" \
